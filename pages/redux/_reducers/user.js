@@ -8,7 +8,15 @@ const initialState = {
     ],
     error: null
 }
-
+const initialState = {
+    isLoading: true,
+    contributor: [
+        {
+            name: 'Dani PPiki mHanedra'
+        },
+    ],
+    error: null
+}
 const user = (state = initialState, action) => {
     switch (action.type) {
 
