@@ -4,6 +4,9 @@ const initialState = {
         {
             name: 'Abdul Hakim'
         },
+        {
+            name: 'Toriq Ahmad Salam'
+        },
     ],
     error: null
 }
