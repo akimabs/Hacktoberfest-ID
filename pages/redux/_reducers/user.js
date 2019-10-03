@@ -3,7 +3,8 @@ const initialState = {
     contributor: [
         {
             name: 'Abdul Hakim',
-            name: 'Abdel Ganteng'
+            name: 'Abdel Ganteng',
+            name: 'Agil Santuy'
         },
     ],
     error: null
