@@ -4,10 +4,12 @@ const initialState = {
         {
             name: 'Abdul Hakim',
             name: 'Abdel Ganteng'
+	    name: 'ojim'
         },
         {
             name: 'Edytk',
             name: 'et.mk'
+	    name: 'achmadkhodzim'
         },
     ],
     error: null
