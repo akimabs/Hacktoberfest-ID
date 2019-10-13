@@ -2,12 +2,8 @@ const initialState = {
     isLoading: true,
     contributor: [
         {
-            name: 'Abdul Hakim',
-            name: 'Abdel Ganteng'
-        },
-        {
-            name: 'Edytk',
-            name: 'et.mk'
+            name: 'Ferdi Kennedy',
+            Github: 'Kennedy69'
         },
     ],
     error: null
