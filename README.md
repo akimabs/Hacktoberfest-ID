@@ -41,3 +41,4 @@ CATATAN:
 
 7. Test di localhost:3000.
 8. Commit perubahan, kemudian lakukan pull request. 
+9. Terimakasih
