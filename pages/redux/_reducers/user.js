@@ -4,6 +4,7 @@ const initialState = {
         {
             name: 'Abdul Hakim',
             name: 'Abdel Ganteng'
+            name: 'Hans Arcadia'
         },
         {
             name: 'Edytk',
