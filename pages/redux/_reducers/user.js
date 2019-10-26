@@ -12,6 +12,7 @@ const initialState = {
          {
             name: 'Hans euy',
             name: 'Hans gans bat'
+            name: 'Yaelah Hans'
         },
     ],
     error: null
