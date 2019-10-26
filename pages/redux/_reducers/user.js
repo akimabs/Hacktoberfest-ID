@@ -9,6 +9,10 @@ const initialState = {
             name: 'Edytk',
             name: 'et.mk'
         },
+        {
+            name: 'Maul',
+            name: 'Ini Maul'
+        }
     ],
     error: null
 }
