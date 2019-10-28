@@ -1,13 +1,13 @@
-const initialState = {
+dconst initialState = {
     isLoading: true,
     contributor: [
         {
-            name: 'Abdul Hakim',
-            name: 'Abdel Ganteng'
+            name: 'Daffa Abdul Farras',
+            name: 'Daffa Gans'
         },
         {
-            name: 'Edytk',
-            name: 'et.mk'
+            name: 'Dina Maretta',
+            name: 'LovelyBabe'
         },
     ],
     error: null
