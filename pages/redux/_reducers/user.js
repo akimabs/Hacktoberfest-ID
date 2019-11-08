@@ -2,8 +2,8 @@ const initialState = {
     isLoading: true,
     contributor: [
         {
-            name: 'Abdul Hakim',
-            name: 'Abdel Ganteng'
+            name: 'Catra',
+            name: 'Andika'
         },
         {
             name: 'Edytk',
