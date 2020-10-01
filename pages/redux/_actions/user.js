@@ -17,6 +17,9 @@ const initialState = {
         {
             name: 'Wisnu'
         },
+        {
+            name: 'Bambang'
+        },
     ],
     error: null
 }
