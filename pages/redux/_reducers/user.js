@@ -3,10 +3,8 @@ const initialState = {
     contributor: [
         {
             name: 'Abdul Hakim',
-            name: 'Abdel Ganteng'
         },
         {
-            name: 'Edytk',
             name: 'et.mk'
         },
     ],
