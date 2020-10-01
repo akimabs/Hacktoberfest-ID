@@ -30,6 +30,9 @@ const initialState = {
         {
             name: 'Abdul Hakim'
         },
++       {
++          name: 'Nama anda'
++       },
     ],
     error: null
 }
