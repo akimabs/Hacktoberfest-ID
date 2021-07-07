@@ -8,6 +8,11 @@ const initialState = {
             name: 'et.mk'
         },
     ],
+    contributor: [
+        {
+            name: 'Marino Imola'
+        },
+    ],
     error: null
 }
 
