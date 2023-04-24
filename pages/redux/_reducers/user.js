@@ -7,6 +7,10 @@ const initialState = {
         {
             name: 'et.mk'
         },
+        {
+            name: 'Maul',
+            name: 'Ini Maul'
+        }
     ],
     error: null
 }
