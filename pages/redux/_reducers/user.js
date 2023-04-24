@@ -7,6 +7,9 @@ const initialState = {
         {
             name: 'et.mk'
         },
+        {
+            name: 'Toriq Ahmad Salam'
+        },
     ],
     error: null
 }
